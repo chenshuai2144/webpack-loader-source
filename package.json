@@ -1,5 +1,5 @@
 {
-  "name": "source-loader",
+  "name": "rc-source-loader",
   "version": "1.0.1",
   "description": "A loader for webpack that allows importing files as a String",
   "license": "MIT",
