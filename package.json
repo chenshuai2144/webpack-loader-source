@@ -1,6 +1,6 @@
 {
   "name": "rc-source-loader",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A loader for webpack that allows importing files as a String",
   "license": "MIT",
   "repository": "webpack-contrib/raw-loader",
